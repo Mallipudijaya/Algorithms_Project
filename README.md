@@ -24,5 +24,5 @@ algorithm.py		    Contains the implementations of the following functions:
 main.py			    This is the main file through which testing is done.  
 sparse_results.txt	    Contains the sparse graph test results printed to the console  
 dense_results.txt	    Contains the dense graph test results printed to the console  
-Algorithms_Project.pdf		    The report  
+Algorithms-Project.pdf		    The report  
 </pre>
